@@ -1,0 +1,9 @@
+/*
+The following instructions clarify how to build Holochain on a Ubuntu machine hosted by AWS Cloud 9
+*/
+
+c9 open ~/.bashrc
+
+/* Add the following path to the .bashrc profile */
+
+export PATH="$PATH:~/workspace/hc"
